@@ -1,0 +1,4 @@
+#map {
+  height: 100vh; /* Asegura que el mapa ocupe toda la altura de la ventana */
+  width: 100%   /* Asegura que el mapa ocupe todo el ancho */
+}
